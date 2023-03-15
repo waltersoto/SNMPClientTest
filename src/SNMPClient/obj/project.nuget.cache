@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwE+4m/iS3/39mIIQLZTZwP1QJjsSuoex6Mpvmxxy5myCZR+dw1sEJwXknGbzFsmLhUsVB0PTbgZhcDl5ffFDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wmsot\\source\\repos\\SNMPClient\\SNMPClient\\SNMPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wmsot\\.nuget\\packages\\lextm.sharpsnmplib\\12.5.1\\lextm.sharpsnmplib.12.5.1.nupkg.sha512",
+    "C:\\Users\\wmsot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
